@@ -59,7 +59,7 @@ class _HomePageState extends State<HomePage> {
       context,
       MaterialPageRoute(
         builder: (context) => const CrewPage(
-          titles: ['Brenno Yves Damasceno Morais'],
+          titles: ['Brenno Yves Damasceno Morais', 'Natanael Lucas Secundo'],
         ),
       ),
     );
